@@ -1,0 +1,19 @@
+{
+  "S0": 5868.55,
+  "calibrated_params": {
+    "v0": 0.02711659494016221,
+    "kappa": 3.017703033949225,
+    "theta": 0.036594554063715916,
+    "sigma": 1.4803585117265705,
+    "rho": 0.0,
+    "feller_2kappa_theta_minus_sigma2": -1.970598329593118
+  },
+  "fit": {
+    "rmse_price": 34.88022955757603,
+    "success": true,
+    "message": "`xtol` termination condition is satisfied."
+  },
+  "notes": {
+    "rho_fixed": "rho was fixed to 0.0 during calibration; only (v0,kappa,theta,sigma) were optimized."
+  }
+}

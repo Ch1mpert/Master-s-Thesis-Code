@@ -1,0 +1,6 @@
+pillar_file,tenor_months,T_years,forward,expiry,T_key,forward_key,tenor_key
+1M.npz,1,0.08767123287671233,5886.629446041499,2025-02-03,T,forward,tenor_months
+3M.npz,3,0.2410958904109589,5919.79287019186,2025-03-31,T,forward,tenor_months
+6M.npz,6,0.4904109589041096,5975.141390151673,2025-06-30,T,forward,tenor_months
+12M.npz,12,0.9945205479452055,6084.959554251463,2025-12-31,T,forward,tenor_months
+24M.npz,24,1.9589041095890412,6291.999344323269,2026-12-18,T,forward,tenor_months

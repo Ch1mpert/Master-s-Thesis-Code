@@ -1,0 +1,20 @@
+{
+  "S0": 5868.55,
+  "calibrated_params": {
+    "v0": 0.024277535007930548,
+    "kappa": 1.5028061414227298,
+    "theta": 0.049199885505279185,
+    "sigma": 0.7754198112472527,
+    "rho": -0.7622738426626562,
+    "feller_2kappa_theta_minus_sigma2": -0.45340010348546755
+  },
+  "fit": {
+    "rmse_price": 6.576653577864245,
+    "success": true,
+    "message": "`xtol` termination condition is satisfied."
+  },
+  "notes": {
+    "rates": "r(T) are continuous-compounded zero rates inferred from discount factors via r=-ln(DF)/T",
+    "dividends": "q(T) inferred from dividend discount factors DF_q; DF_q itself implied from NPZ forwards via DF_q=F*DF_r/S0"
+  }
+}
